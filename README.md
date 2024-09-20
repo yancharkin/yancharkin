@@ -5,7 +5,7 @@
     <a href="https://yancharkin.bandcamp.com/music"><img width="48px" src="images/bandcamp.png"></a>
     <a href="https://www.upwork.com/freelancers/~01f01fe014e0852622"><img width="48px" src="images/upwork.png"></a>
     -->
-    <img width="50%"></img>
+    <img width="40%"></img>
     <a href="https://yancharkin.itch.io/"><img width="48px" src="images/itch.png"></a>
     <a href="https://soundcloud.com/yancharkin"><img width="48px" src="images/soundcloud.png"></a>
     <a href="https://sketchfab.com/yancharkin"><img width="48px" src="images/sketchfab.png"></a>
