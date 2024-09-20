@@ -7,7 +7,7 @@
     <a href="https://github.com/yancharkin#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yancharkin&exclude_repo=SpelunkyClassicHD,SpelunkyClassicHDhtml5,game_jams,games_nebula_goglib_scripts,games_nebula_mylib_scripts&size_weight=0.5&count_weight=0.5&layout=compact&card_width=420&theme=transparent&border_color=d1d9e0&title_color=0969da&text_color=59636e"></a>
     <a href="https://github.com/yancharkin#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/?username=yancharkin&hide_title=true&card_width=420&theme=transparent&border_color=d1d9e0&title_color=0969da&text_color=59636e"/></a>
 </p>
-<p align="left">
+<p align="center">
     <!--
     <a href="https://www.linkedin.com/in/yancharkin/"><img width="48px" src="images/linkedin.png"></a>
     <a href="https://yancharkin.bandcamp.com/music"><img width="48px" src="images/bandcamp.png"></a>
